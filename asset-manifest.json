@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cryptography-App/static/css/main.ae36691e.css",
+    "main.js": "/Cryptography-App/static/js/main.e466cdf3.js",
+    "index.html": "/Cryptography-App/index.html",
+    "main.ae36691e.css.map": "/Cryptography-App/static/css/main.ae36691e.css.map",
+    "main.e466cdf3.js.map": "/Cryptography-App/static/js/main.e466cdf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae36691e.css",
+    "static/js/main.e466cdf3.js"
+  ]
+}
